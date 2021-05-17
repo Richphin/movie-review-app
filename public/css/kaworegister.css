@@ -1,0 +1,67 @@
+.main {
+    background-color: rgb(59, 12, 12);
+    height: 100px;    
+}
+.navbar-nav .active a {
+    border: 2px solid #D14233;
+}
+.topbtn > li > a {
+   color:  #D14233;
+   font-family: Open Sans;
+   font-size: 14px;
+    font-style: normal;
+    padding: 5px 10px;
+    margin: 0px 5px;
+}
+.registerfirsttext {
+	margin-top: 50px;
+  margin-bottom: 30px;
+	font-size: 30px;
+}
+.inputbox {
+   margin-bottom: 20px;
+}
+.signinbtn {
+  color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+}
+.logo {
+ margin-left: 50px;
+ color:  #D14233;
+}
+.topbtn {
+	padding-top: 24px;
+ margin-right: 70px;
+}
+.registerfooter{
+ height: 60px;
+ background-color: rgb(59, 12, 12);
+ margin-top: 40px;
+}
+.logo {
+ width: 200px;
+ height: 60px;
+}
+.copyright {
+ padding-top: 9px;
+ padding-left: 150px;
+ color: #fff;
+}
+.socialmedia {
+ padding-left: 300px;
+}
+.fa{
+ padding: 15px;
+ font-size: 20px;
+ width: 50px;
+ text-align: center;
+ text-decoration: none;
+}
+.fa:hover{
+ opacity: 0.7;
+}
+.icon{
+ background: transparent;
+ color: #5bc0de;
+}

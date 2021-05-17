@@ -1,0 +1,100 @@
+.main {
+    background-color: rgb(59, 12, 12);
+    height: 100px;
+    margin-bottom: 20px;
+}
+.navbar-nav .active a {
+    border: 2px solid #D14233;
+}
+.topbtn > li > a {
+   color:  #D14233;
+   font-family: Open Sans;
+   font-size: 14px;
+    font-style: normal;
+    padding: 5px 10px;
+    margin: 0px 5px;
+}
+.searchbox {
+   margin-top: 10px;
+   margin-bottom: 20px;
+   padding-top: 10px; 
+}
+.searchbtn {
+  width: 100px;
+  background-color: #337ab7;
+  color: #fff; 
+  border-color: #2e6da4;
+}
+.startupcontent > p {
+	font-size: 15.5px;
+}
+h3 {
+	color: blue;
+}
+.startupimg {
+ display: block;
+ max-width: 110px;
+ max-height: 110px;
+ background-color: transparent;
+ float: right;
+ margin-right: 20px;
+ margin-top: 10px;
+ border: 1px solid #eee
+}
+.startupbtn > a {    
+    color: black;
+}
+.startupbtn {    
+    background-color: #fff;
+    border-color: black;
+}
+.maincontent {
+  height: 490px;
+  background-color: #fff;  
+  margin-top: none; 
+}
+.subcontent {
+ margin-top: 30px;
+}
+.maincontent > p {
+ font-size: 20px;
+}
+.logo {
+ margin-left: 50px;
+ color:  #D14233;
+}
+.topbtn {
+	padding-top: 24px;
+ margin-right: 90px;
+}
+.startupfooter{
+ height: 60px;
+ background-color: rgb(59, 12, 12);
+ margin-top: 10px;
+}
+.copyright {
+ padding-top: 9px;
+ padding-left: 150px;
+ color: #fff;
+}
+.logo {
+ width: 200px;
+ height: 60px;
+}
+.socialmedia {
+ padding-left: 300px;
+}
+.fa{
+ padding: 15px;
+ font-size: 20px;
+ width: 50px;
+ text-align: center;
+ text-decoration: none;
+}
+.fa:hover{
+ opacity: 0.7;
+}
+.icon{
+ background: transparent;
+ color: #5bc0de;
+}

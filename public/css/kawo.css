@@ -1,0 +1,105 @@
+
+.homemain {    
+    height: 600px;
+    
+}
+
+.background {    
+    
+    background-image: url(/images/kawo.jpg)
+}
+.logo {
+ width: 200px;
+ height: 60px;
+ 
+}
+.full-bg-img{
+    background-color: rgba(49, 12, 12, 0.76);
+    position: absolute;
+    overflow: hidden;
+    width: 100%;
+}
+
+h1 {    
+    font-size: 40px;
+}
+.navbar-nav .active a {
+    border: 2px solid #D14233;
+}
+.topbtn > li > a {
+   color:  #D14233;
+   font-family: Open Sans;
+   font-size: 14px;
+    font-style: normal;
+    padding: 5px 10px;
+    margin: 0px 5px;
+}
+a {
+    background-color: transparent;
+}
+.homemaincontent {    
+   margin-top: 100px;
+}
+.homemaincontent > h3 {
+    font-size: 200%;
+    border-top: 20px;
+    border-bottom: 10px;
+    color: #fff;
+}
+.registerbtn > a {    
+    color: #fff;
+    text-decoration: none;
+}
+.registerbtn { 
+  padding: 10px 30px;
+    font-size: 20px;   
+    width: 200px;
+    height: 40px;    
+    background-color: #5bc0de;
+    border-color: #46b8da;
+}
+.homemaincontent {    
+   margin-top: 200px;
+   color: #fff;
+}
+.homemaincontent > p {
+ font-size: 27px;
+}
+.logo {
+ margin-left: 50px;
+ color:  #D14233;
+}
+.topbtn {
+	padding-top: 24px;
+ margin-right: 70px;
+}
+.homefooter{
+    height: 60px;
+    background-color: rgb(59, 12, 12);
+   
+   }
+
+
+.copyright {
+ padding-top: 15px;
+ padding-left: 150px;
+ color: #fff;
+}
+.socialmedia {
+ padding-left: 300px;
+}
+.fa{
+ padding: 15px;
+ font-size: 20px;
+ width: 50px;
+ text-align: center;
+ text-decoration: none;
+
+}
+.fa:hover{
+ opacity: 0.7;
+}
+.icon{
+ background: transparent;
+ color: #5bc0de;
+}
